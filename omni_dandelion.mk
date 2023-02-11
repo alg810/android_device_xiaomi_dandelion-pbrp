@@ -39,7 +39,8 @@ PRODUCT_PACKAGES += \
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := dandelion
 PRODUCT_NAME := omni_dandelion
-PRODUCT_BRAND := Redmi
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := Redmi 9A
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
